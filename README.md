@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm MD. Fayaz Fardin Khan 👋</h1>
 
 <p align="center">
-  3rd-year CSE student | Aspiring Software Engineer | Database, Machine Learning & Math enthusiast
+  3rd-year CSE student | Aspiring Software Engineer | Database, Machine Learning 
 </p>
 
 ---
