@@ -12,8 +12,6 @@
 - 💼 My goal is to become a **Software Engineer**
 - 🗄️ I'm passionate about **Databases**
 - 🤖 I'm learning and exploring **Machine Learning**
-- 🧮 I love **Math problem solving** and competitive problem solving on LeetCode
-- 🌱 Always learning, building, and improving
 
 ---
 
