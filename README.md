@@ -53,7 +53,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fayaz2010&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fayaz2010&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />username=Fayaz2010&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz2010&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
